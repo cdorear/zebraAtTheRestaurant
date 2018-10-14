@@ -5,6 +5,7 @@
 //  Created by Connor on 10/11/18.
 //  Copyright © 2018 Connor. All rights reserved.
 //
+// Added to git on 10/14/18
 
 import UIKit
 import AVFoundation
